@@ -1,0 +1,57 @@
+button{
+
+
+    color: 
+    rgb(18, 18, 6);
+    background-color: yellow;
+}
+.div_two{
+
+    background-color: orange;
+}
+
+
+
+.row{
+
+
+
+    background-color: blueviolet;
+}
+
+.second_row{
+
+ background-color: rgb(35, 153, 26);
+}
+
+.my_column{
+
+    background-color: black;
+    color: aliceblue;
+}
+.mysecond{
+
+background-color: greenyellow;
+}
+.mythird{
+
+
+background-color: red;
+}
+
+   .meet_one{
+    background-color: brown;
+
+
+
+
+   }
+
+
+   .food{
+object-fit: cover;
+width:100%;
+
+
+height: 200px;
+   }
